@@ -1,5 +1,12 @@
 # SuperVim
 ---
+첫 실행
+build first
+`sh conf.sh`
+두번째
+two
+`python run.py [filenames]`
+***
 SuperVim은 C + Python + Shared Library(.so) 구조로 제작된 경량 Vim 스타일 텍스트 에디터입니다.
 
 특징
